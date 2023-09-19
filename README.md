@@ -1,10 +1,12 @@
 # I'm Naoya Iijima
 ---
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iijima-naoya-45b&theme=2077)
+
 ### 【Status】
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iijima-naoya-45b&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iijima-naoya-45b&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iijima-naoya-45b&theme=2077)
+
 
 ### 【使用言語】
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
