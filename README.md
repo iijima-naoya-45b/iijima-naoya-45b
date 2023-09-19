@@ -1,12 +1,8 @@
 # I'm Naoya Iijima
 ---
+### 【Status】
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iijima-naoya-45b&theme=2077)
-
-### 【Status】
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iijima-naoya-45b&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iijima-naoya-45b&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
-
 
 ### 【使用言語】
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
@@ -16,3 +12,5 @@
 [![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iijima-naoya-45b&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=iijima-naoya-45b&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
