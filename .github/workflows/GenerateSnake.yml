@@ -1,25 +1,24 @@
 name: Generate Snake
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 1 * * *"
-
+  push:
+    branches:
+      - main  # ブランチ名を適切に指定
 jobs:
-  update-repository:
-    name: Update this repo's README with repository_owner
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v2
       - name: Generate Snake
         uses: Platane/snk@master
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./img/snake.gif
           svg_out_path: ./img/snake.svg
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: main  # ブランチ名をデフォルトのブランチに合わせて設定
-          message: ':rocket: Update'
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'Your Name'
+          git config --global user.email 'your.email@example.com'
+          git add ./img/snake.gif ./img/snake.svg
+          git commit -m ":snake: Update snake image"
+          git push
